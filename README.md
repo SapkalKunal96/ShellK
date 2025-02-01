@@ -6,4 +6,4 @@
 
 ######################
 
-There is not shell scrip
+There is not shell
