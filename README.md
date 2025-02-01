@@ -6,4 +6,4 @@
 
 ######################
 
-There is not shell scripts as far
+There is not shell scrip
